@@ -1,56 +1,37 @@
 <div align="center">
 
-# Namita Thangavel Jeyaradha
+<img src="assets/namita.png" width="170" alt="Illustration of Namita at her laptop">
 
-**AI Engineer** · Generative AI · Test Automation · Computer Vision
+# Hi, I'm Namita ♡
 
-<a href="mailto:namita.tj@gmail.com"><img src="https://img.shields.io/badge/Email-namita.tj%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/namita-tj"><img src="https://img.shields.io/badge/LinkedIn-Connect-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Based_in-Stuttgart_area,_Germany-24292f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+**AI Engineer** who likes to *build cool things* that people can rely on
+
+<a href="https://www.linkedin.com/in/namita-tj"><img src="https://img.shields.io/badge/LinkedIn-say_hi-D9707F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:namita.tj@gmail.com"><img src="https://img.shields.io/badge/Email-namita.tj%40gmail.com-331E18?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Stuttgart_area-Germany-6E8F4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Stuttgart area, Germany">
+
+<img src="https://img.shields.io/badge/-%20%20%20%20-FCD4B5?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-F99C64?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-D9707F?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-FBB019?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-C36C2D?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-6E8F4E?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-4A4452?style=flat-square" alt=""><img src="https://img.shields.io/badge/-%20%20%20%20-331E18?style=flat-square" alt="">
 
 </div>
 
-<br>
+### ✨ About me
+I come from test automation, so I build AI that can show *why* its answer is right, or says when it doesn't know.
+B.Sc. Computer Science, TH Bingen (thesis 1.0) · German C1 · English · Tamil
 
-I'm an AI engineer focused on applying AI to real-world problems. I like exploring opportunities across
-industries and scopes to find where AI can best optimise a workflow, and then taking it from **prototype into
-production**. I enjoy sketching out architectures, weighing trade-offs against the requirements, and building
-custom AI workflows.
+### 🧋 Currently working on
+Exact answers from tables in technical PDFs ([table-rag](https://github.com/namita-tj/table-rag)), and teaching small open LLMs to be less sycophantic.
 
-<sub>🎓 B.Sc. Computer Science, TH Bingen 2026 &nbsp;·&nbsp; 🗣️ German C1 · English fluent · Tamil &nbsp;·&nbsp; 🔎 Open to full-time AI roles, willing to relocate</sub>
+### 💭 What I'm into
+How LLMs work on the inside, evaluating them honestly, and handing repetitive work over to AI.
 
-<br>
+### 🌱 How I work
+Measure before I claim · refuse rather than guess · code for precision, AI for flexibility · ship it with tests ♡
 
-### What I work on
+### 🛠️ Tech stack
+<img src="https://img.shields.io/badge/Python-331E18?style=flat-square&logo=python&logoColor=FBB019" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-331E18?style=flat-square&logo=pytorch&logoColor=F99C64" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-331E18?style=flat-square&logo=tensorflow&logoColor=F99C64" alt="TensorFlow"> <img src="https://img.shields.io/badge/Hugging_Face-331E18?style=flat-square&logo=huggingface&logoColor=FBB019" alt="Hugging Face"> <img src="https://img.shields.io/badge/LangChain-331E18?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/scikit--learn-331E18?style=flat-square&logo=scikitlearn&logoColor=F99C64" alt="scikit-learn"> <img src="https://img.shields.io/badge/OpenCV-331E18?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"><br>
+<img src="https://img.shields.io/badge/FastAPI-D9707F?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Docker-D9707F?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub_Actions-D9707F?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/pytest-D9707F?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/SQLite-D9707F?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Azure-6E8F4E?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/Bicep-6E8F4E?style=flat-square" alt="Bicep"> <img src="https://img.shields.io/badge/AWS-6E8F4E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
 
-| Area | Focus |
-| :--- | :--- |
-| **LLM & RAG pipelines** | Getting exact answers out of long technical documents and their tables, with retrieval, citations and benchmarks. |
-| **Applied ML with measurement** | Defining KPIs and baselines first, then proving a model beats them. |
-| **Explainable AI** | Showing *why* a model decided, and testing whether the explanation is faithful. |
-| **Cloud deployment** | Infrastructure as code, managed identities instead of passwords, monitoring and cost limits. |
-| **Automation that ships** | Tested, packaged tools used daily by real teams. |
+### 🐈‍⬛ Fun fact
+My to-do list fits on a sticky note: ☑ learn AI ☑ work out ☑ be happy
 
-<br>
-
-### Top projects
-
-| Project | What it is | Why I built it |
-| :--- | :--- | :--- |
-| **[Table RAG](https://github.com/namita-tj/RAG)**<br><sub>Docling · BM25 + dense · Qwen2.5 · Benchmark</sub> | RAG for tables in technical PDFs: stitches tables across pages, keeps each row with its headers and section, answers ranges and counts exactly, and refuses when the source does not support an answer. Benchmarked against naive, Markdown, Camelot and Docling chunking. | Tables are where RAG quietly gets numbers wrong. I wanted to measure how much a structure-aware pipeline beats the usual approaches, where accuracy can't be traded away. |
-| **[Email Filtering with DistilBERT](https://github.com/namita-tj/Email-Filtering-Using-DistilBERT)**<br><sub>FastAPI · Docker · Azure · Bicep · XAI</sub> | Hybrid spam filter served as a live API on Azure Container Apps: DistilBERT with an LLM fallback for uncertain emails, word-level explanations, infrastructure as code and keyless deploys from GitHub Actions. | To take a notebook model all the way to a monitored cloud service that is measured against KPIs and explains its decisions. |
-| **[Workflow Intelligence HITL](https://github.com/namita-tj/workflow-intelligence-hitl)**<br><sub>Clustering · Anomaly detection · Fleiss' κ</sub> | Bachelor's thesis (grade 1.0): pattern discovery on workflow data plus a human-in-the-loop review system with an audit ledger, inter-rater agreement and a runnable synthetic demo. | To find out whether undocumented, person-dependent know-how can be surfaced from data, with experts keeping the final say. |
-| **[RoPE Playground](https://github.com/namita-tj/rope_playground)**<br><sub>PyTorch · Transformers</sub> | Attention and Rotary Position Embeddings from scratch, ablations on a tiny GPT, and an experiment on stretching context with Position Interpolation, NTK-aware scaling and YaRN. | To really understand how transformers know word order, and why long-context tricks work, instead of using them as a black box. |
-| **[Desktop Organizer Agent](https://github.com/namita-tj/desktop-organizer-agent)**<br><sub>Ollama · Llama 3.2 · OCR</sub> | A local AI agent that sorts files by their content and learns from corrections. | To build an agent for an everyday problem where file contents never leave the machine. |
-| **[Car MPG Prediction](https://github.com/namita-tj/car_MPG_prediction)**<br><sub>MLflow · CatBoost · Streamlit</sub> | End-to-end CRISP-DM pipeline comparing 20+ models. Best model: CatBoost, R² 0.914. | To practise the full ML lifecycle, from data understanding to a deployed app. |
-
-<br>
-
-### Tech stack
-
-| Area | Tools |
-| :--- | :--- |
-| **AI / ML** | <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"> <img src="https://img.shields.io/badge/LangChain-24292f?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/MLflow-24292f?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/OpenCV-24292f?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Tesseract_OCR-24292f?style=flat-square" alt="Tesseract OCR"> |
-| **Engineering** | <img src="https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/pytest-24292f?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/SQL-24292f?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Azure_(Container_Apps,_Bicep)-24292f?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/AWS_(EC2,_S3)-24292f?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Streamlit-24292f?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"> |
-
-<sub>Certificate: IBM Generative AI Engineering</sub>
+<div align="center"><sub>build cool things ♡</sub></div>
