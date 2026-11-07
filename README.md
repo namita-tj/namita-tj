@@ -4,7 +4,7 @@
 
 # ୨୧ Hi, I'm Namita!
 
-### AI Engineer · Curious mind · Builder of things ♡
+### AI Engineer · From experimentation to application
 
 *Building AI that's useful, explainable, and reliable.*
 
